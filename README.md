@@ -103,7 +103,7 @@ streamlit run app.py
 
 ## 📏 Scales
 
-- Built-in options: 40 µm and 100 µm.
+- Built-in options: 20 um, 40 µm, 100 um and 200 µm.
 - You can **add new scales** or **delete existing scales** from the app GUI.
 - **Adding a new scale:**  
   Use ImageJ to calculate µm/pixel equivalence:
