@@ -2,7 +2,7 @@
 
 This is an online Python application built with **Streamlit** that allows you to detect and analyze cells and crystals in bright-field (BF) and polarized light (PL) microscopy images at various scales (10 µm, 20 µm, 40 µm, 100 µm).
 
-👉 **Live App:** [Launch here](https://appdetectorcrystals-dttdtr4f68yeu8bzuw9daa.streamlit.app/)
+👉 **Live App:** [Launch here](https://appdetectorcrystals-8zfskviskvvx6frtdgnzng.streamlit.app/)
 
 ---
 
@@ -60,7 +60,7 @@ streamlit run app.py
 
 ```
 .
-├── app.py             # Main Streamlit app script
+├── app_final.py             # Main Streamlit app script
 ├── requirements.txt   # List of Python dependencies
 ```
 
